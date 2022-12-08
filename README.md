@@ -4,5 +4,5 @@ This Colab will allow you to import an unlimited amount of pictures (jpg or not 
 Credits: https://huggingface.co/spaces/nielsr/dpt-depth-estimation 
 
 
-Colab Direct Link:
+# Colab Direct Link:
 https://colab.research.google.com/drive/1lJN71e_4C8AVora_ZbKaHdbP6Q72IYSg?usp=share_link
